@@ -1,1 +1,1 @@
-hello php
+hello php, Welcome to openshift
